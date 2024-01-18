@@ -22,5 +22,7 @@
     <img alt='Python' src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white'>
     <img alt='Python' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
 
-</div>
+</div><br>
 
+
+Apaixonado por tecnologia e dados, minha área de atuação é a automação. Adoro desafios e acredito que nunca é demais aprender um pouco mais a cada dia.🔥
