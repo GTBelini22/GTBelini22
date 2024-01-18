@@ -7,7 +7,7 @@
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GTBelini22&show_icons=true&theme=dracula)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTBelini22&hide_progress=true)
 
 
 ### Ferramentas nas quais tenho proficiência.
